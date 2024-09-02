@@ -1,3 +1,7 @@
+
+![screencapture-127-0-0-1-8050-2024-09-02-15_42_18](https://github.com/user-attachments/assets/b166009f-baff-47c9-acc1-a5564d515848)
+
+
 # Clone the repository
 
 git clone https://github.com/rkrakhikumari/assignment.git
